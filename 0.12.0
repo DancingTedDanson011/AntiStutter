@@ -1,0 +1,8 @@
+Collecting soundfile
+  Using cached soundfile-0.13.1-py2.py3-none-win_amd64.whl.metadata (16 kB)
+Requirement already satisfied: cffi>=1.0 in c:\users\dancingteddanson\desktop\antistutter\venv\lib\site-packages (from soundfile) (2.0.0)
+Requirement already satisfied: numpy in c:\users\dancingteddanson\desktop\antistutter\venv\lib\site-packages (from soundfile) (2.3.4)
+Requirement already satisfied: pycparser in c:\users\dancingteddanson\desktop\antistutter\venv\lib\site-packages (from cffi>=1.0->soundfile) (2.23)
+Using cached soundfile-0.13.1-py2.py3-none-win_amd64.whl (1.0 MB)
+Installing collected packages: soundfile
+Successfully installed soundfile-0.13.1

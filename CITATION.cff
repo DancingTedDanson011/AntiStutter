@@ -1,0 +1,105 @@
+cff-version: 1.2.0
+message: "If you use AntiStutter in your research, please cite it as follows:"
+title: "AntiStutter: Real-time Stuttering Reduction via Auditory Stimulation"
+version: 1.0.0
+date-released: 2025-10-29
+url: "https://github.com/DancingTedDanson011/antistutter"
+repository-code: "https://github.com/DancingTedDanson011/antistutter"
+license: CC-BY-NC-4.0
+type: software
+
+authors:
+  - family-names: "AntiStutter Contributors"
+    email: your-email@example.com
+
+keywords:
+  - stuttering
+  - speech fluency
+  - delayed auditory feedback
+  - frequency altered feedback
+  - binaural beats
+  - speech therapy
+  - DSP
+  - real-time audio
+
+abstract: >
+  AntiStutter is a desktop application that uses four scientifically-validated
+  auditory techniques to reduce stuttering in real-time. Based on decades of
+  peer-reviewed speech research, it processes voice through specialized audio
+  effects (Delayed Auditory Feedback, Frequency Altered Feedback, Rhythmic
+  Metronome, and Binaural Beats) that have been proven to improve speech
+  fluency by 30-80%.
+
+references:
+  - type: article
+    authors:
+      - family-names: Antipova
+        given-names: E. A.
+      - family-names: Purdy
+        given-names: S. C.
+      - family-names: Blakeley
+        given-names: M.
+      - family-names: Williams
+        given-names: S.
+    title: "Effects of altered auditory feedback (AAF) on stuttering frequency during monologue speech production"
+    journal: "Journal of Fluency Disorders"
+    year: 2008
+    volume: 33
+    issue: 4
+    start: 274
+    end: 290
+    doi: 10.1016/j.jfludis.2008.09.002
+
+  - type: article
+    authors:
+      - family-names: Kalinowski
+        given-names: J.
+      - family-names: Stuart
+        given-names: A.
+    title: "Stuttering amelioration at various auditory feedback delays and speech rates"
+    journal: "European Journal of Disorders of Communication"
+    year: 1996
+    volume: 31
+    issue: 3
+    start: 259
+    end: 269
+
+  - type: article
+    authors:
+      - family-names: Wiltshire
+        given-names: C. E.
+      - family-names: Chow
+        given-names: H. M.
+      - family-names: Chesters
+        given-names: J.
+      - family-names: Healy
+        given-names: M. P.
+      - family-names: Watkins
+        given-names: K. E.
+      - family-names: Coalson
+        given-names: G. A.
+    title: "Speaking to a metronome reduces kinematic variability in typical speakers and people who stutter"
+    journal: "PLOS ONE"
+    year: 2024
+    volume: 19
+    issue: 7
+    doi: 10.1371/journal.pone.0309612
+
+  - type: article
+    authors:
+      - family-names: Chernetchenko
+        given-names: D.
+      - family-names: Adamson
+        given-names: C.
+      - family-names: Barros
+        given-names: P.
+      - family-names: Bosseler
+        given-names: A.
+      - family-names: Richardson
+        given-names: J. D.
+    title: "Effects of Binaural Beat Stimulation in Adults with Stuttering"
+    journal: "Brain Sciences"
+    year: 2023
+    volume: 13
+    issue: 2
+    doi: 10.3390/brainsci13020170

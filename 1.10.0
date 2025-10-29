@@ -1,0 +1,7 @@
+Collecting scipy
+  Downloading scipy-1.16.3-cp313-cp313-win_amd64.whl.metadata (60 kB)
+Requirement already satisfied: numpy<2.6,>=1.25.2 in c:\users\dancingteddanson\desktop\antistutter\venv\lib\site-packages (from scipy) (2.3.4)
+Downloading scipy-1.16.3-cp313-cp313-win_amd64.whl (38.5 MB)
+   ---------------------------------------- 38.5/38.5 MB 55.0 MB/s  0:00:00
+Installing collected packages: scipy
+Successfully installed scipy-1.16.3
