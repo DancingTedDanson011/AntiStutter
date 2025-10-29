@@ -28,32 +28,13 @@ AntiStutter is a desktop application that uses **four scientifically-validated a
 
 ---
 
-## 🎬 Demo
+## 🎬 Interface Preview
 
-<!-- Replace with actual screenshot/gif when available -->
-```
-┌──────────────────────────────────────┐
-│  AntiStutter v1.0        [_][□][×]   │
-├──────────────────────────────────────┤
-│  Status: ● Active   🎤▓▓▓▓▓░░░  70%  │
-│                                      │
-│  ╔════════ QUICK START ══════════╗   │
-│  ║ [Light] [Medium] [Strong]    ║    │
-│  ╚══════════════════════════════╝    │
-│                                      │
-│  ┌─ Delayed Feedback (DAF) ──────┐   │
-│  │ ☑ Enabled                     │  │
-│  │ Delay:  [====●====] 75 ms      │  │
-│  └────────────────────────────────┘  │
-│                                      │
-│  ┌─ Pitch Shift (FAF) ───────────┐   │
-│  │ ☑ Enabled                     │  │
-│  │ Shift:  [===●=====] -0.5 Oct   │  │
-│  └────────────────────────────────┘  │
-│                                      │
-│         [■ STOP]    [▶ START]        │
-└──────────────────────────────────────┘
-```
+The application features a clean, intuitive interface with:
+- Real-time audio level monitoring
+- Three quick-start presets (Light, Medium, Strong)
+- Manual control sliders for all parameters
+- Visual feedback for active processing
 
 ---
 
@@ -97,11 +78,11 @@ start.bat
 
 ### The 3 Presets
 
-| Preset | Stuttering Reduction | Use Case | DAF | FAF | Metronome | Binaural |
-|--------|---------------------|----------|-----|-----|-----------|----------|
-| 🟢 **Light** | 30-40% | Mild stuttering, testing | 50ms | -0.25 oct | Off | Off |
-| 🔵 **Medium** ⭐ | 50-60% | Daily use (recommended) | 75ms | -0.5 oct | Off | Balanced |
-| 🔴 **Strong** | 60-80% | Severe stuttering, presentations | 100ms | -0.5 oct | 100 BPM | Focused |
+| Preset | Reduction | Use Case | DAF | FAF |
+|--------|-----------|----------|-----|-----|
+| 🟢 **Light** | 30-40% | Mild stuttering, testing | 50ms / 70% | -0.25 oct |
+| 🔵 **Medium** ⭐ | 50-60% | Daily use (recommended) | 75ms / 80% | -0.5 oct + Binaural |
+| 🔴 **Strong** | 60-80% | Severe stuttering | 100ms / 90% | -0.5 oct + Metro + Binaural |
 
 ### Custom Mode
 
@@ -142,12 +123,32 @@ AntiStutter is built on **peer-reviewed research** from leading speech science j
 
 ### Key Publications
 
-- Antipova, E. A., et al. (2008). "Effects of altered auditory feedback (AAF) on stuttering frequency." *Journal of Fluency Disorders*, 33(4), 274-290.
-- Kalinowski, J., & Stuart, A. (1996). "Stuttering amelioration at various auditory feedback delays." *European Journal of Disorders of Communication*, 31(3), 259-269.
-- Wiltshire, C. E., et al. (2024). "Speaking to a metronome reduces kinematic variability in people who stutter." *PLOS ONE*, 19(7).
-- Chernetchenko, D., et al. (2023). "Effects of Binaural Beat Stimulation in Adults with Stuttering." *Brain Sciences*, 13(2).
+1. **Antipova, E. A., et al. (2008)**
+   "Effects of altered auditory feedback (AAF) on stuttering frequency during monologue speech production"
+   *Journal of Fluency Disorders*, 33(4), 274-290
+   [https://doi.org/10.1016/j.jfludis.2008.08.001](https://doi.org/10.1016/j.jfludis.2008.08.001)
 
-📚 **Full research PDFs included** in the repository
+2. **Kalinowski, J., & Stuart, A. (1996)**
+   "Stuttering amelioration at various auditory feedback delays and speech rates"
+   *European Journal of Disorders of Communication*, 31(3), 259-269
+   [https://doi.org/10.3109/13682829609033157](https://doi.org/10.3109/13682829609033157)
+
+3. **Wiltshire, C. E., et al. (2024)**
+   "Speaking to a metronome reduces kinematic variability in typical speakers and people who stutter"
+   *PLOS ONE*, 19(7): e0305187
+   [https://doi.org/10.1371/journal.pone.0305187](https://doi.org/10.1371/journal.pone.0305187)
+
+4. **Chernetchenko, D., et al. (2023)**
+   "Effects of Binaural Beat Stimulation on Attention and EEG in Adults with Stuttering: A Pilot Study"
+   *Brain Sciences*, 13(2), 260
+   [https://doi.org/10.3390/brainsci13020260](https://doi.org/10.3390/brainsci13020260)
+
+5. **Brady, J. P. (1969)**
+   "Studies on the metronome effect on stuttering"
+   *Behaviour Research and Therapy*, 7(2), 197-204
+   [https://doi.org/10.1016/0005-7967(69)90033-3](https://doi.org/10.1016/0005-7967(69)90033-3)
+
+📚 **Full research PDFs included** in the repository (`/Research PDFs/`)
 
 ---
 
@@ -320,7 +321,7 @@ This project is licensed under **Creative Commons Attribution-NonCommercial 4.0 
 - Sell the software or derivatives
 - Use in for-profit businesses without permission
 
-**For commercial licensing**, contact: your-email@example.com
+**For commercial licensing**, please open an issue on GitHub.
 
 See [LICENSE](LICENSE) file for complete details.
 
@@ -366,7 +367,6 @@ For persistent or severe stuttering, please consult a licensed speech-language p
 
 - **Issues**: [GitHub Issues](https://github.com/DancingTedDanson011/antistutter/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/DancingTedDanson011/antistutter/discussions)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
 
 ---
 

@@ -117,3 +117,13 @@ secrets/
 
 # Windows
 *.lnk
+
+# Claude Code artifacts
+.claude/
+
+# Version number files (artifacts from dependency parsing)
+[0-9]*.[0-9]*.[0-9]*
+
+# Test files (excluded from production repo)
+tests/
+test_*.bat

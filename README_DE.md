@@ -221,15 +221,32 @@ Entwickelt basierend auf neurowissenschaftlicher Forschung zu auditiven Fluency-
 
 ### Hauptreferenzen
 
-1. Antipova, E. A., et al. (2008). "Effects of altered auditory feedback (AAF) on stuttering frequency during monologue speech production." *Journal of Fluency Disorders*, 33(4), 274-290.
+1. **Antipova, E. A., et al. (2008)**
+   "Effects of altered auditory feedback (AAF) on stuttering frequency during monologue speech production"
+   *Journal of Fluency Disorders*, 33(4), 274-290
+   [https://doi.org/10.1016/j.jfludis.2008.08.001](https://doi.org/10.1016/j.jfludis.2008.08.001)
 
-2. Kalinowski, J., & Stuart, A. (1996). "Stuttering amelioration at various auditory feedback delays and speech rates." *European Journal of Disorders of Communication*, 31(3), 259-269.
+2. **Kalinowski, J., & Stuart, A. (1996)**
+   "Stuttering amelioration at various auditory feedback delays and speech rates"
+   *European Journal of Disorders of Communication*, 31(3), 259-269
+   [https://doi.org/10.3109/13682829609033157](https://doi.org/10.3109/13682829609033157)
 
-3. Wiltshire, C. E., et al. (2024). "Speaking to a metronome reduces kinematic variability in typical speakers and people who stutter." *PLOS ONE*, 19(7).
+3. **Wiltshire, C. E., et al. (2024)**
+   "Speaking to a metronome reduces kinematic variability in typical speakers and people who stutter"
+   *PLOS ONE*, 19(7): e0305187
+   [https://doi.org/10.1371/journal.pone.0305187](https://doi.org/10.1371/journal.pone.0305187)
 
-4. Chernetchenko, D., et al. (2023). "Effects of Binaural Beat Stimulation in Adults with Stuttering." *Brain Sciences*, 13(2).
+4. **Chernetchenko, D., et al. (2023)**
+   "Effects of Binaural Beat Stimulation on Attention and EEG in Adults with Stuttering: A Pilot Study"
+   *Brain Sciences*, 13(2), 260
+   [https://doi.org/10.3390/brainsci13020260](https://doi.org/10.3390/brainsci13020260)
 
-Vollständige Quellenangaben in den PDFs im Projektverzeichnis.
+5. **Brady, J. P. (1969)**
+   "Studies on the metronome effect on stuttering"
+   *Behaviour Research and Therapy*, 7(2), 197-204
+   [https://doi.org/10.1016/0005-7967(69)90033-3](https://doi.org/10.1016/0005-7967(69)90033-3)
+
+Vollständige Quellenangaben in den PDFs im Projektverzeichnis (`/Research PDFs/`).
 
 ## 📜 Lizenz
 
@@ -245,7 +262,7 @@ Dieses Projekt ist lizenziert unter **Creative Commons Attribution-NonCommercial
 - Verkauf der Software oder Derivate
 - Nutzung in gewinnorientierten Unternehmen ohne Erlaubnis
 
-**Für kommerzielle Lizenzen**, kontaktieren Sie: your-email@example.com
+**Für kommerzielle Lizenzen**, bitte öffnen Sie ein Issue auf GitHub.
 
 Siehe [LICENSE](LICENSE) Datei für vollständige Details.
 
